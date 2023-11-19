@@ -1,5 +1,3 @@
-# Gurrinder
-
 <h1 align="center">Hi 👋, I'm Gurinder</h1>
 <h3 align="center">A passionate Backend developer from Canada</h3>
 
